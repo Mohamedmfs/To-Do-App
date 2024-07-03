@@ -45,6 +45,10 @@ input{
   padding: 10px;
   font-weight: 14px;
 }
+p{
+  color: rgb(204, 2, 2);
+  font-size: 18px;
+}
 button{
   border: none;
   outline: none;
